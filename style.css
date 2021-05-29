@@ -110,7 +110,7 @@ a {
   margin-bottom: 1rem;
 }
 
-@media screen and (min-width: 1440px) {
+@media screen and (min-width: 1024px) {
   .main {
     grid-template-columns: repeat(2, 1fr);
   }
